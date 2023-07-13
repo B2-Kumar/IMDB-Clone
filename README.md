@@ -3,6 +3,7 @@
 <hr>
 
 <h1 align="center">About Projects </h1>
+
 #### MovieMania
 > Welcome to MovieMania! This project is an impressive clone of the popular IMDb website, utilizing the TMDb API to provide comprehensive information about movies, web series, and TV shows.
 
